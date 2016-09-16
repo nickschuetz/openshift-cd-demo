@@ -93,7 +93,7 @@ objects:
     source:
       contextDir: jenkins-master
       git:
-        uri: https://github.com/OpenShiftDemos/openshift-cd-demo.git
+        uri: https://github.com/nickschuetz/openshift-cd-demo.git
         ref: openshift-3.2
       secrets: []
       type: Git
@@ -192,7 +192,7 @@ objects:
     source:
       contextDir: jenkins-slave
       git:
-        uri: https://github.com/OpenShiftDemos/openshift-cd-demo.git
+        uri: https://github.com/nickschuetz/openshift-cd-demo.git
         ref: openshift-3.2
       type: Git
     strategy:
