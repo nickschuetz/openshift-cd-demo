@@ -11,7 +11,7 @@ This repository includes the infrastructure and pipeline definition for continuo
 
 The following diagram shows the steps included in the deployment pipeline:
 
-![](https://github.com/OpenShiftDemos/openshift-cd-demo/blob/openshift-3.4/images/pipeline.png)
+![](images/pipeline.png)
 
 # Setup
 
